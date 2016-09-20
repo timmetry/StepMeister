@@ -1,0 +1,4 @@
+C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\bin\Debug\StepMeister.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\bin\Debug\StepMeister.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\obj\x86\Debug\StepMeister.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\obj\x86\Debug\StepMeister.pdb
