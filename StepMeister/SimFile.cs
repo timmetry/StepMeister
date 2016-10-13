@@ -29,8 +29,8 @@ namespace StepFu
 
 		public void SetDir(string dir)
 		{
-			readDir = dir + "\\backup\\";
-            backupDir = dir + "\\backup\\";
+			readDir = dir + "backup\\";
+            backupDir = dir + "backup\\";
 			writeDir = dir;
 		}
 

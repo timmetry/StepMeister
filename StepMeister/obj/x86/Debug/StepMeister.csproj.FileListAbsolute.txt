@@ -2,3 +2,8 @@ C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\bin\D
 C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\bin\Debug\StepMeister.pdb
 C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\obj\x86\Debug\StepMeister.exe
 C:\Users\Tim\documents\visual studio 2010\Projects\StepMeister\StepMeister\obj\x86\Debug\StepMeister.pdb
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepMeister\StepMeister\bin\Debug\StepMeister.exe
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepMeister\StepMeister\bin\Debug\StepMeister.pdb
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepMeister\StepMeister\obj\x86\Debug\StepMeister.csprojResolveAssemblyReference.cache
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepMeister\StepMeister\obj\x86\Debug\StepMeister.exe
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepMeister\StepMeister\obj\x86\Debug\StepMeister.pdb
