@@ -11,7 +11,7 @@ namespace StepFu
 		static void Main(string[] args)
 		{
 			Random rand = new Random();
-            SimFile file = new SimFile("I:\\Stepmania\\All Songs\\_Caveman\\ResurrectionResurrected\\", "ResurrectionResurrected");
+            SimFile file = new SimFile("I:\\Stepmania\\All Songs\\___StepMeister DDR Boss Songs\\_bag\\", "bag");
 			Options opt = new Options();
 			opt.SetNormalMode();
 			file.RunStepFu(opt, rand);
